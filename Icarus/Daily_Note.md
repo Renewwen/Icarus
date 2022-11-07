@@ -4,6 +4,8 @@
 Always say it's a new beginning, but which time will it be ture?  
 Today! Just today!
 
-**2022.11.07**
+**2022.11.07**  
 Move daily note under the file Icarus...
+ 
+
  
